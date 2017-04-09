@@ -120,7 +120,7 @@ https://msdn.microsoft.com/en-us/library/ms524602(v=vs.90).aspx
 
 </article>
 
-<footer>Copyright © please check this out</footer>
+<footer>Copyright © DC</footer>
 </div>
 
 </body>
