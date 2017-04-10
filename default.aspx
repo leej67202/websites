@@ -117,6 +117,12 @@ footer {background: #aaa;color:white;}
 https://msdn.microsoft.com/en-us/library/ms524602(v=vs.90).aspx
  </p>
 
+	
+<p>
+ <b>Build Version</b>
+1st Build
+ </p>
+
 
 </article>
 
